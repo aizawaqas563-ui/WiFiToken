@@ -1,0 +1,6 @@
+{
+  "name": "WiFiToken",
+  "description": "Ultra-premium DeFi and decentralized connectivity landing page for WiFiToken ($WIFI).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
